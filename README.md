@@ -76,7 +76,7 @@ This portfolio demonstrates my commitment to lifelong learning and professional 
 
 ## 🌐 View My Portfolio
 
-Visit the live portfolio: [GitHub Pages Link](https://your-username.github.io/coursera-portfolio)
+Visit the live portfolio: [https://arnabsen08.github.io/coursera-portfolio/](https://arnabsen08.github.io/coursera-portfolio/)
 
 ## 📊 Portfolio Features
 
