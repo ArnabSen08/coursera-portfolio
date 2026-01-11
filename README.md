@@ -96,6 +96,10 @@ The interactive portfolio includes:
 
 ## 📞 Connect With Me
 
+- **Coursera Profile**: [View my verified achievements](https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960)
+- **LinkedIn**: [Professional networking](https://www.linkedin.com/in/arnab-sen-19a6b1287/)
+- **Portfolio**: [Technical projects and work](https://arnab-cloud-core.lovable.app)
+
 Feel free to reach out to discuss learning opportunities, collaborations, or professional development!
 
 ---
